@@ -14,8 +14,8 @@ import './App.css';
 
 
 const searchClient = algoliasearch(
-  'S90CEM4XMP',
-  '22568000f94b220e67dc014a3d6bd9da'
+  'use.env',
+  'use .env'
 );
 
 
