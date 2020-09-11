@@ -7,10 +7,7 @@ import './App.css';
 // demo data: https://www.algolia.com/doc/guides/building-search-ui/resources/demos/react/#media
 // sample datasets on github: https://github.com/algolia/datasets
 
-// ===== OPTION 2: if you want to get started quickly =====
-// app id: SSN9CKZUJ2
-// api key: ae8a3f7cff93d40282a4831930bfa38b
-// index name: products
+
 
 
 const searchClient = algoliasearch(
